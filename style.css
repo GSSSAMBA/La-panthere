@@ -361,7 +361,16 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-
+.site-navigation2 {
+width: 135px;
+display: flex;
+/* justify-content: space-around; */
+list-style-type: none;
+margin-right: 60px;
+margin-top: 15px;
+padding-bottom: 15px;
+/* padding-right: 400px; */
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
