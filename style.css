@@ -529,6 +529,15 @@ button {
     box-shadow: none;
 }
 
+.gras{
+    color: #000000!important;
+    font-size: 20px;
+}
+.max{
+/* color: #cccccc; */
+}
+
+
 .scrollToTop {
     width: 40px;
     height: 40px;
