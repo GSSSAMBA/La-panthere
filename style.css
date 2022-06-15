@@ -11,6 +11,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    display: block;
 }
 
 a:hover {
@@ -533,8 +534,8 @@ button {
     color: #000000!important;
     font-size: 20px;
 }
-.max{
-/* color: #cccccc; */
+.social{
+    width: 48px;
 }
 
 
