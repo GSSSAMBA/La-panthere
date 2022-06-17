@@ -1,11 +1,14 @@
 body {
     margin: 0;
     padding: 0;
+    /* margin-left: 10px; */
     background: #FFF;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+
 
 a,
 button {
@@ -297,6 +300,10 @@ a:hover {
 .navbar {
     margin-bottom: 0;
     z-index: 1;
+}
+
+.XXX{
+    width: auto;
 }
 
 .navbar-brand {
@@ -731,6 +738,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    /* height: 35px ; */
+    padding-top: 1rem;
 }
 
 h2 {
