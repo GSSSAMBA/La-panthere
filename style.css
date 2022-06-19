@@ -864,6 +864,14 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+.center-block{
+    width: 100px;
+}
+
+.img-responsive{
+    width: 600px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
