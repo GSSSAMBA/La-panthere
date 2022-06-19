@@ -864,12 +864,19 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+.logonav{
+    height: 40px;
+    width: auto;
+}
+
 .center-block{
     width: 100px;
+    height: auto;
 }
 
 .img-responsive{
     width: 600px;
+    height: auto;
 }
 
 @media (max-width: 1024px) {
